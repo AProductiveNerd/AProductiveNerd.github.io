@@ -1,0 +1,16 @@
+a {
+    color: black;
+}
+
+.navbar {
+    background-color: #fafaff;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+}
