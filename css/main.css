@@ -1,0 +1,28 @@
+    body {
+        font-family: 'Lobster', cursive;
+        font-family: 'PT Sans', sans-serif;
+    }
+    
+    a {
+        color: black !important;
+    }
+    
+    .navbar {
+        background-color: #fafaff !important;
+    }
+    
+    .navbar-brand {
+        font-size: 2rem !important;
+        text-transform: uppercase;
+    }
+    
+    .nav-link {
+        font-size: 1.1rem !important;
+    }
+    
+    .hero-content {
+        position: absolute;
+        top: 40%;
+        left: 38%;
+        max-width: 40%;
+    }
