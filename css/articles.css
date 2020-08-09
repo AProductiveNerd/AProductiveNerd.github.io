@@ -4,6 +4,12 @@
     text-align: center;
 }
 
+.article h1 {
+    position: relative !important;
+    color: orange;
+    text-align: center;
+}
+
 .navbar {
     border-bottom: 50px !important;
 }
@@ -32,4 +38,26 @@ body {
 
 .html {
     padding: 0%;
+}
+
+body {
+font-family: 'Lobster', cursive;
+font-family: 'PT Sans', sans-serif;
+}
+
+a {
+color: gainsboro!important;
+}
+
+.navbar {
+background-color: !important;
+}
+
+.navbar-brand {
+font-size: 2rem !important;
+text-transform: uppercase;
+}
+
+.nav-link {
+font-size: 1.1rem !important;
 }
