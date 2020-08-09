@@ -26,5 +26,10 @@ body {
 }
 
 .column {
-    width: 80%;
+    width: auto;
+    max-width: 80%;
+}
+
+.html {
+    padding: 0%;
 }
