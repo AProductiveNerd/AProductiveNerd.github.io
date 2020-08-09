@@ -1,124 +1,131 @@
-    body {
-        font-family: 'Lobster', cursive;
-        font-family: 'PT Sans', sans-serif;
-    }
-    
-    a {
-        color: black !important;
-    }
-    
-    .navbar {
-        background-color: #fafaff !important;
-    }
-    
-    .navbar-brand {
-        font-size: 2rem !important;
-        text-transform: uppercase;
-    }
-    
-    .nav-link {
-        font-size: 1.1rem !important;
-    }
-    
-    .hero-content {
-        position: absolute;
-        top: 40%;
-        left: 39.5%;
-        max-width: 40%;
-        color: #fafaff;
-    }
-    
-    .hero-content>h1 {
-        font-size: 3.3rem;
-        font-weight: 600;
-        text-transform: uppercase;
-    }
-    
-    .btn-main {
-        background-color: blueviolet !important;
-        color: #fafaff !important;
-        font-size: 1.2rem !important;
-    }
-    
-    .dark {
-        background-color: #132f59;
-        color: #fafaff;
-    }
-    
-    .stats-icon {
-        font-size: 4rem;
-    }
-    
-    .stats-content {
-        font-size: 1.2rem;
-    }
-    
-    .stats-content span {
-        font-size: 3rem;
-        font-weight: 700;
-        color: #d4b7d0;
-    }
-    
-    .section-heading {
-        font-size: 3rem;
-        text-transform: uppercase;
-        font-weight: 700;
-    }
-    
-    .section-heading>span {
-        color: #8882b1;
-    }
-    
-    .about h3 {
-        font-size: 1.8rem;
-    }
-    
-    .about p {
-        font-size: 0.9rem;
-    }
-    
-    .portfolio-item {
-        position: relative;
-    }
-    
-    .portfolio-content {
-        position: absolute;
-        width: 100%;
-        top: 0;
-        height: 100%;
-        background-color: #8882b1;
-        opacity: 0.8;
-    }
-    
-    .portfolio h4 {
-        font-size: 2rem;
-        font-weight: 700;
-        text-transform: uppercase;
-    }
-    
-    .portfolio p {
-        color: #fafaff;
-    }
-    
-    .social-links {
-        background-color: #fafaff;
-    }
-    
-    .social-links i {
-        font-size: 1.8rem;
-        margin-left: 1rem;
-        margin-right: 1rem;
-    }
-    
-    .testimonial i {
-        font-size: 2rem;
-    }
-    
-    .testimonial h4 {
-        font-size: 2rem;
-    }
-    
-    .testimonial img {
-        max-width: 100%;
-        height: auto;
-    }
+body {
+    font-family: 'Lobster', cursive;
+    font-family: 'PT Sans', sans-serif;
+}
+
+a {
+    color: black !important;
+}
+
+.navbar {
+    background-color: #fafaff !important;
+}
+
+.navbar-brand {
+    font-size: 2rem !important;
+    text-transform: uppercase;
+}
+
+.nav-link {
+    font-size: 1.1rem !important;
+}
+
+.hero-content {
+    position: absolute;
+    top: 40%;
+    left: 39.5%;
+    max-width: 40%;
+    color: black;
+}
+
+.hero-content>h1 {
+    font-size: 3.3rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    top: 1rem;
+}
+
+.img-hero {
+    scale: 0% !important;
+    opacity: 40% !important;
+}
+
+.btn-main {
+    background-color: blueviolet !important;
+    color: #fafaff !important;
+    font-size: 1.2rem !important;
+}
+
+.dark {
+    background-color: #132f59;
+    color: #fafaff;
+}
+
+.stats-icon {
+    font-size: 4rem;
+}
+
+.stats-content {
+    font-size: 1.5rem;
+    object-position: center;
+}
+
+.stats-content span {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #d4b7d0;
+}
+
+.section-heading {
+    font-size: 3rem;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.section-heading>span {
+    color: #8882b1;
+}
+
+.about h3 {
+    font-size: 1.8rem;
+}
+
+.about p {
+    font-size: 0.9rem;
+}
+
+.portfolio-item {
+    position: relative;
+}
+
+.portfolio-content {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    height: 100%;
+    background-color: #8882b1;
+    opacity: 0.8;
+}
+
+.portfolio h4 {
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.portfolio p {
+    color: #fafaff;
+}
+
+.social-links {
+    background-color: #fafaff;
+}
+
+.social-links i {
+    font-size: 1.8rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.testimonial i {
+    font-size: 2rem;
+}
+
+.testimonial h4 {
+    font-size: 2rem;
+}
+
+.testimonial img {
+    max-width: 100%;
+    height: auto;
+}
