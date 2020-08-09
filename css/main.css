@@ -23,6 +23,65 @@
     .hero-content {
         position: absolute;
         top: 40%;
-        left: 38%;
+        left: 39.5%;
         max-width: 40%;
+        color: #fafaff;
+    }
+    
+    .hero-content>h1 {
+        font-size: 3.3rem;
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+    
+    .btn-main {
+        background-color: blueviolet !important;
+        color: #fafaff !important;
+        font-size: 1.2rem !important;
+    }
+    
+    .dark {
+        background-color: #132f59;
+        color: #fafaff;
+    }
+    
+    .stats-icon {
+        font-size: 4rem;
+    }
+    
+    .stats-content {
+        font-size: 1.2rem;
+    }
+    
+    .stats-content span {
+        font-size: 3rem;
+        font-weight: 700;
+        color: #d4b7d0;
+    }
+    
+    .section-heading {
+        font-size: 3rem;
+        text-transform: uppercase;
+        font-weight: 700;
+    }
+    
+    .section-heading>span {
+        color: #8882b1;
+    }
+    
+    .about h3 {
+        font-size: 1.8rem;
+    }
+    
+    .about p {
+        font-size: 0.9rem;
+    }
+    
+    .portfolio article {}
+    
+    .portfolio-content {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: #8882b1;
     }
