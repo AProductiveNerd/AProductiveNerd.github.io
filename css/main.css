@@ -15,6 +15,11 @@
             font-size: 2rem !important;
             text-transform: uppercase;
         }
+
+        .navbar a{
+            color: black;
+            font-weight: 700;
+        }
         
         .nav-link {
             font-size: 1.1rem !important;
