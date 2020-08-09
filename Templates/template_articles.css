@@ -1,7 +1,6 @@
-.article h2 {
-    position: relative !important;
-    color: orange;
-    text-align: center;
+body {
+    font-family: 'Lobster', cursive;
+    font-family: 'PT Sans', sans-serif;
 }
 
 .navbar {
@@ -18,13 +17,4 @@
 
 .body {
     border: 1rem;
-}
-
-body {
-    font-family: 'Lobster', cursive;
-    font-family: 'PT Sans', sans-serif;
-}
-
-.column {
-    width: 80%;
 }
