@@ -97,10 +97,16 @@
         .portfolio p {
             color: white !important;
         }
+
+        .container {
+            position: relative;
+            text-align: center;
+            color: white;
+          }
         
         .social-links {
-            background-color: grey;
             opacity: 100%;
+            font-weight: 700;
         }
         
         .social-links i {
@@ -111,6 +117,14 @@
         
         .testimonial i {
             font-size: 2rem;
+        }
+        
+        .shasha {
+            text-underline-position: center;
+        }
+        .forty {
+            border: 5rem;            
+            border-color: black;
         }
         
         .testimonial h4 {
@@ -133,3 +147,4 @@
         
         .a {
             color: white;
+        }
