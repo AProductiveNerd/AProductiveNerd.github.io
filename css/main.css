@@ -109,3 +109,16 @@
         margin-left: 1rem;
         margin-right: 1rem;
     }
+    
+    .testimonial i {
+        font-size: 2rem;
+    }
+    
+    .testimonial h4 {
+        font-size: 2rem;
+    }
+    
+    .testimonial img {
+        max-width: 100%;
+        height: auto;
+    }
