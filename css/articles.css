@@ -31,8 +31,8 @@ body {
 
 .column {
     width: auto;
-    max-width: 90%;
-    min-width: 472px;
+    max-width: 80%;
+    min-width: 400px;
 }
 
 .html {
