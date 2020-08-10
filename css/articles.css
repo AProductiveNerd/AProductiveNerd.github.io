@@ -15,8 +15,6 @@
 }
 
 .article {
-    padding-left: 10rem;
-    padding-right: 10rem;
     scale: auto;
     text-shadow: black;
     text-align: justify;
@@ -33,7 +31,8 @@ body {
 
 .column {
     width: auto;
-    max-width: 80%;
+    max-width: 90%;
+    min-width: 472px;
 }
 
 .html {
@@ -50,7 +49,7 @@ color: gainsboro!important;
 }
 
 .navbar {
-background-color: !important;
+background-color: white!important;
 }
 
 .navbar-brand {
