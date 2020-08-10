@@ -17,10 +17,10 @@
 .article {
     text-shadow: black;
     text-align: justify;
-    padding-bottom: 2px;
-    padding-top: 2px;
-    padding-left: 2px;
-    padding-right: 2px;
+    padding-bottom: 2px !important;
+    padding-top: 2px !important;
+    padding-left: 2px !important;
+    padding-right: 5px !important;
 }
 
 
