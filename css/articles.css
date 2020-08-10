@@ -17,6 +17,10 @@
 .article {
     text-shadow: black;
     text-align: justify;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
 }
 
 
