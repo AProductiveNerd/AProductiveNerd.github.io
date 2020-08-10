@@ -106,7 +106,6 @@
         .container {
             position: relative;
             text-align: center;
-            color: white;
           }
         
         .social-links {
@@ -150,6 +149,4 @@
             color: black;
         }
         
-        .a {
-            color: white;
-        }
+        
