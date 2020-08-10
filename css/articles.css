@@ -15,14 +15,11 @@
 }
 
 .article {
-    scale: auto;
     text-shadow: black;
     text-align: justify;
 }
 
-.body {
-    border: 1rem;
-}
+
 
 body {
     font-family: 'Lobster', cursive;
@@ -31,8 +28,6 @@ body {
 
 .column {
     width: auto;
-    max-width: 80%;
-    min-width: 400px;
 }
 
 .html {
