@@ -1,5 +1,9 @@
+font-family: 'Patrick Hand', cursive !important;
+
+
 * {
 	justify-content: space-around;
+	font-family: 'Patrick Hand', cursive !important;
 }
 
 body {
