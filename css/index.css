@@ -101,9 +101,14 @@ body {
 
   }
   .card {
-  	justify-content: center;
-  	align-self: center;
-  	margin-right: 0rem;
+    justify-content: center;
+    align-self: center;
+    margin-right: 0rem;
+    border-style: ridge;
+    border-width: 0.2rem;
+    border-right: none;
+    border-left: none;
+    border-color: #60b3f8;
   }
 
   
