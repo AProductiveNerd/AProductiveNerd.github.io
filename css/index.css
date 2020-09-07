@@ -6,7 +6,7 @@ font-family: 'Patrick Hand', cursive !important;
 }
 
 	body {
-		background-color: rgba(199, 243, 255, 0.4);
+		background-color: rgba(190, 250, 255, 0.7);
 		display: flex;
 	}
 
@@ -115,7 +115,8 @@ font-family: 'Patrick Hand', cursive !important;
 				margin-right: 0rem;
 				border-style: ridge;
 				border-width: 0.05rem;
-				border-color: grey;
+				border-color: gray;
+				box-shadow: 2.5px 5px rgba(0,0,0,0.7);				
 			}
 
 			.card:hover {
