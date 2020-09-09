@@ -115,13 +115,13 @@ font-family: 'Patrick Hand', cursive !important;
 				border-style: ridge;
 				border-width: 0.05rem;
 				border-color: gray;
-				box-shadow: 2.5px 5px rgba(0,0,0,0.7);				
+				box-shadow: 1.5px 3px rgba(0,0,0,0.7);				
 			}
 
 			.card:hover {
 				transform: scale(1.05, 1.05);
 				transition-duration: 0.7s;
-			}
+				box-shadow: 2.5px 5px rgba(0,0,0,0.7);
 
 			.btn-recent {
 				align-self: center;
