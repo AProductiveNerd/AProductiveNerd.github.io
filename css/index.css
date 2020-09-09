@@ -1,19 +1,18 @@
 font-family: 'Patrick Hand', cursive !important;
 
 * {
-	justify-content: space-around;
-	font-family: 'Patrick Hand', cursive !important;
+	
 }
 
 	body {
 		background-image: linear-gradient(to right bottom, #00fff6, #03f1e2, #0be3ce, #12d5bb, #18c7a8, #0ac7a1, #00c89a, #00c892, #00d691, #00e48f, #00f18a, #00ff83);
 		display: flex;
-	}
-
-	#body {
-		display: flex;
+		font-family: 'Open Sans', sans-serif;
 		flex-wrap: wrap;
 		justify-content: flex-start;
+		justify-content: space-around;
+
+
 	}
 
 		/*Navbar*/
