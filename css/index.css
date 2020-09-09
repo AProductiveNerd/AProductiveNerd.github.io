@@ -5,7 +5,7 @@ font-family: 'Patrick Hand', cursive !important;
 }
 
 	body {
-		background-image: linear-gradient(to right bottom, #00fff6, #03f1e2, #0be3ce, #12d5bb, #18c7a8, #0ac7a1, #00c89a, #00c892, #00d691, #00e48f, #00f18a, #00ff83);
+		background-image: linear-gradient(to right bottom, #00fff2, #00ede6, #00dbd9, #00c9cb, #00b8bd, #00b9ba, #00b9b7, #00bab4, #00ccb6, #00deb0, #00efa3, #00ff90);
 		display: flex;
 		font-family: 'Open Sans', sans-serif;
 		flex-wrap: wrap;
@@ -122,6 +122,7 @@ font-family: 'Patrick Hand', cursive !important;
 				transform: scale(1.05, 1.05);
 				transition-duration: 0.7s;
 				box-shadow: 2.5px 5px rgba(0,0,0,0.7);
+			}
 
 			.btn-recent {
 				align-self: center;
