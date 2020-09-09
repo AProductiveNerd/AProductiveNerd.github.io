@@ -6,7 +6,7 @@ font-family: 'Patrick Hand', cursive !important;
 }
 
 	body {
-		background-color: rgba(190, 250, 255, 0.7);
+		background-image: linear-gradient(to right bottom, #00fff6, #03f1e2, #0be3ce, #12d5bb, #18c7a8, #0ac7a1, #00c89a, #00c892, #00d691, #00e48f, #00f18a, #00ff83);
 		display: flex;
 	}
 
