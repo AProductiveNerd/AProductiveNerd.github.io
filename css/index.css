@@ -117,12 +117,7 @@ font-family: 'Patrick Hand', cursive !important;
 				border-color: gray;
 				box-shadow: 1.5px 3px rgba(0,0,0,0.7);				
 			}
-
-			.larry-bird {
-				margin: 0rem;
-				padding: 0rem;
-			}
-
+			
 			.card:hover {
 				transform: scale(1.05, 1.05);
 				transition-duration: 0.7s;
