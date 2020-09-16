@@ -14,7 +14,6 @@ font-family: 'Patrick Hand', cursive !important;
 		background-size: contain;
 		
 		background-image: linear-gradient(to right bottom, rgba(0, 255, 242, 0.7), rgba(0, 237, 230, 0.7), rgba(0, 219, 217, 0.7), rgba(0, 201, 203, 0.7), rgba(0, 184, 189, 0.7), rgba(0, 185, 186, 0.7), rgba(0, 185, 183, 0.7), rgba(0, 185, 183, 0.7), rgba(0, 204, 182, 0.7), rgba(0, 222, 176, 0.7), rgba(0, 239, 163, 0.7), rgba(0, 255, 144, 0.7)),  url(/Images/roam-rectangle-light.png);
-		background-blend-mode: overlay;
 	}
 
 		/*Navbar*/
