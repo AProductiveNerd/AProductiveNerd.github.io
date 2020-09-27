@@ -135,6 +135,7 @@ blockquote {
 
 	div.scroll {
 		height: 600px;
+		width: 110%;
 		overflow-x: hidden;
 		overflow-y: auto;
 		scrollbar-width: thin;
