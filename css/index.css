@@ -162,7 +162,6 @@ blockquote {
 			border-style: ridge;
 			border-width: 0.05rem;
 			border-color: gray;
-			box-shadow: 0.75px 1.5px rgba(0,0,0,0.7);
 			outline: none;	
 			border: none;
 			background-color: rgba(1, 1, 1, 0);			
@@ -171,8 +170,9 @@ blockquote {
 		.card:hover {
 			transform: scale(1.03, 1.03);
 			transition-duration: 0.5s;
-			box-shadow: 1.25px 2.5px rgba(0,0,0,0.5);
+			box-shadow: 0px 10px 9px 4px rgba(0,0,0,0.5);
 		}
+
 
 		.btn-recent {
 			align-self: center;
