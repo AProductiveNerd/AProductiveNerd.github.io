@@ -46,7 +46,8 @@ blockquote.twitter-tweet a:focus {
 
 blockquote {
 	max-width: 100% !important;
-	font-family: 'Courgette', cursive;
+	font-family: 'Merriweather', serif;
+	font-weight: bold;
 }
 
 	/*Navbar*/
