@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"jWv+":function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return o}));var a=t("q1tI"),c=t.n(a),u=t("Bl7J");function o(){return c.a.createElement(u.a,null,c.a.createElement("div",{className:"site-content"},"About Me"))}}}]);
-//# sourceMappingURL=component---src-pages-about-me-js-56b21282fe3ab4235772.js.map
